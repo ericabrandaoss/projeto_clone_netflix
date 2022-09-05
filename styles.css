@@ -123,3 +123,18 @@ div.splash button{
 	color: #fff;
 	border: 0;
 }
+section{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 46px;
+	padding: 70px 40px;
+}
+section div.texts h1{
+	font-size: 3.125rem;
+}
+section div.texts p{
+	font-size: 1.625rem;
+}
+.media.s1 img{
+	width: 400px;
+}
